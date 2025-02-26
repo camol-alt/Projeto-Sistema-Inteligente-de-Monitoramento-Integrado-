@@ -24,9 +24,13 @@ Além disso, o sistema contará com sensores de temperatura   do solo. O senso
 
 Explicação:
 Este programa foi desenvolvido para explorar as funcionalidades da placa BitDogLab, contribuindo para o aprimoramento dos códigos e consolidando os conhecimentos em programação de microcontroladores.
-Vídeo Explicativo: Para simplificar a compreensão, foi produzido um vídeo de 2 minutos explicando brevemente as funcionalidades implementadas e mostrando a execução do projeto na placa BitDogLab.
-.......
-Projeto Desenvolvido por: Camile Vitória Lino dos Santos
+
+Vídeo Explicativo:
+Para simplificar a compreensão, foi produzido um vídeo de 5 minutos explicando brevemente as funcionalidades implementadas e mostrando a execução do projeto na placa BitDogLab.
+https://drive.google.com/file/d/1WiEzF1EER7QY5-lP_C-RrqaxLVKHgbO6/view?usp=sharing
+
+Projeto Desenvolvido por: 
+Camile Vitória Lino dos Santos.
 
 
 
